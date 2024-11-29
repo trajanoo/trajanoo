@@ -36,7 +36,7 @@
   <a href="https://www.linkedin.com/in/bruno-trajano-5612aa33b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="brunotrajano.dev@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvqJqQTszWgCTJwCNhxNDTpxTnxCWWFFTnVdtnPLGhNMkNCKvmgsJWLqLRpXJLGDWpnprg" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/eutrajaaano/" target="_blank">
