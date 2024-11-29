@@ -1,4 +1,4 @@
-<h1 align="left">Olá 👋 Meu nome é Bruno Trajano!</h1>
+<h1 align="left">Olá 👋 Eu me chamo Bruno Trajano!</h1>
 
 ###
 
@@ -29,6 +29,7 @@
 ###
 
 <p align="left">Você também pode me encontrar em:</p>
+<hr>
 
 ###
 
