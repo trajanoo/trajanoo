@@ -29,7 +29,7 @@
 ###
 
 <p align="left">Você também pode me encontrar em:</p>
-<hr>
+
 
 ###
 
