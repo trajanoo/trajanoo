@@ -52,7 +52,7 @@
 
 <ul align="left">
   <li><a href="https://github.com/trajanoo/Instagram-Login" target="_blank">Página de Login do Instagram feito em Tailwind 🚀</a></li>
-  <li><a href="https://github.com/trajanoo/Tindog" target="_blank">landing page feita em Bootstrap 🔥</a></li>
+  <li><a href="https://github.com/trajanoo/Tindog" target="_blank">Landing page fictícia feita em Bootstrap 🔥</a></li>
   <li><a href="https://github.com/trajanoo/apple" target="_blank">Landing page da Apple feita em CSS puro 🍎</a></li>
 </ul>
 
