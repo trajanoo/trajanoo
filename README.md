@@ -47,3 +47,13 @@
 </div>
 
 ###
+
+<h3 align="left">Meus repositórios favoritos:</h3>
+
+<ul align="left">
+  <li><a href="https://github.com/seuusuario/repo1" target="_blank">Projeto 1 🚀</a></li>
+  <li><a href="https://github.com/seuusuario/repo2" target="_blank">Projeto 2 🔥</a></li>
+  <li><a href="https://github.com/seuusuario/repo3" target="_blank">Projeto 3 📦</a></li>
+</ul>
+
+###
