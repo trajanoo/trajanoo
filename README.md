@@ -51,9 +51,9 @@
 <h3 align="left">Meus repositórios favoritos:</h3>
 
 <ul align="left">
-  <li><a href="https://github.com/seuusuario/repo1" target="_blank">Projeto 1 🚀</a></li>
-  <li><a href="https://github.com/seuusuario/repo2" target="_blank">Projeto 2 🔥</a></li>
-  <li><a href="https://github.com/seuusuario/repo3" target="_blank">Projeto 3 📦</a></li>
+  <li><a href="https://github.com/trajanoo/Instagram-Login" target="_blank">Página de Login do Instagram feito em Tailwind 🚀</a></li>
+  <li><a href="https://github.com/trajanoo/Tindog" target="_blank">landing page feita em Bootstrap 🔥</a></li>
+  <li><a href="https://github.com/trajanoo/apple" target="_blank">Landing page da Apple feita em CSS puro 🍎</a></li>
 </ul>
 
 ###
