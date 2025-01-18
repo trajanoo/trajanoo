@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Minha primeira experiência com programação foi em 2023.<br>📚 Atualmente estou estudando React! <br>🎲 Apaixonado por tecnologia e sempre em busca de aprender mais.<br>🎯 Atualmente dando prioridade para essas linguagens:</p>
+<p align="left">✨ Minha primeira experiência com programação foi em 2023.<br>📚 Atualmente estou estudando React/Java <br>🎲 Apaixonado por tecnologia e sempre em busca de aprender mais.<br>🎯 Atualmente dando prioridade para essas linguagens:</p>
 
 ###
 
