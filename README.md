@@ -54,9 +54,9 @@
 <h3 align="left">Meus repositórios favoritos:</h3>
 
 <ul align="left">
-  <li><a href="https://github.com/trajanoo/Instagram-Login" target="_blank">Página de Login do Instagram feito em Tailwind 🚀</a></li>
-  <li><a href="https://github.com/trajanoo/Tindog" target="_blank">Landing page fictícia feita em Bootstrap 🔥</a></li>
-  <li><a href="https://github.com/trajanoo/apple" target="_blank">Landing page da Apple feita em CSS puro 🍎</a></li>
+  <li><a href="https://github.com/trajanoo/eldendle" target="_blank">Jogo de adivinhação diário baseado em Elden Ring (Next.js + Supabase) 🚀</a></li>
+  <li><a href="https://github.com/trajanoo/habit-tracker" target="_blank">API RESTful de gerenciamento de hábitos documentada (Java/Spring + PostgreSQL) 🔥</a></li>
+  <li><a href="https://github.com/trajanoo/cafe-do-carlao" target="_blank">Landing page de uma cafeteria fictícia (React + Tailwind) ☕</a></li>
 </ul>
 
 ###
