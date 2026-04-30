@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Junior Software Developer building fullstack web applications with the JavaScript ecosystem — from pixel-perfect UIs to scalable APIs.</p>
+<p align="left">Still in high school, already award-winning, already employed, already building AI tools that developers actually use.</p>
 
 ###
 
