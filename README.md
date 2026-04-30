@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-✨ Building since 2022 — fullstack apps, developer tools, and real products<br>
+✨ Building since 2022<br>
 🏆 Award winner at <strong>Code The Future</strong> — SKA Automação de Engenharias<br>
 📚 Currently studying system design, scalable architectures, and backend best practices<br>
 🎯 Goals: ship products that real people use and grow into a solid fullstack engineer<br>
@@ -25,7 +25,7 @@
 ###
 
 <p align="left">
-🛠 <strong><a href="https://github.com/trajanoo/codescribe">CodeScribe</a></strong> — AI platform that turns any GitHub repo into a professional README + LinkedIn post<br>
+🛠 <strong><a href="https://github.com/trajanoo/codescribe">Codescribe</a></strong> — AI platform that turns any GitHub repo into a professional README + LinkedIn post<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<code>Next.js</code> <code>TypeScript</code> <code>Node.js</code> <code>Supabase</code> <code>Framer Motion</code><br><br>
 📋 <strong><a href="https://github.com/trajanoo/vanta">Vanta</a></strong> — Task manager with Kanban board, productivity dashboard and Google Calendar sync<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<code>Angular</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Supabase</code><br><br>
