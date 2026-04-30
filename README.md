@@ -1,62 +1,118 @@
-<h1 align="left">Olá 👋 Eu me chamo Bruno Trajano!</h1>
+# 👋 Hi, I'm Bruno Trajano
 
-###
+🚀 **Software Developer | TypeScript | Fullstack JavaScript**
 
-<p align="left">Atualmente estou cursando o ensino médio com foco em tecnologia.</p>
+📍 Brazil | 🎯 Open to opportunities
 
-###
+---
 
-<h2 align="left">Sobre mim:</h2>
+## 🧠 About Me
 
-###
+I'm a **Junior Software Developer** passionate about building modern, scalable web applications using the JavaScript ecosystem.
 
-<p align="left">✨ Minha primeira experiência com programação foi em 2023.<br>📚 Atualmente estou estudando Next com Typescript! <br>🎲 Apaixonado por tecnologia e sempre em busca de aprender mais.<br>🎯 Atualmente dando prioridade para essas linguagens:</p>
+Currently in my final year of a **technical high school in Systems Development**, I combine academic knowledge with real-world experience at **SKA Automação de Engenharias**, where I’ve already been recognized for delivering impactful projects.
 
-###
+I enjoy creating tools that **solve real problems and improve developer experience** — especially with AI-powered solutions.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-</div>
+* 🔭 Currently working on: improving fullstack architecture & real-world products
+* 🌱 Learning: system design, performance optimization, and scalable backend patterns
+* 💬 Ask me about: React, Node.js, TypeScript, and building MVPs
+* ⚡ Fun fact: I build tools that help developers present their work better 🚀
 
-###
+---
 
-<p align="left">Você também pode me encontrar em:</p>
+## 🛠️ Tech Stack
 
+**Languages**
+TypeScript, JavaScript, SQL
 
-###
+**Frontend**
+React, Next.js, Angular, Framer Motion
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/bruno-trajano-5612aa33b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvqJqQTszWgCTJwCNhxNDTpxTnxCWWFFTnVdtnPLGhNMkNCKvmgsJWLqLRpXJLGDWpnprg" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/eutrajaaano/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+**Backend**
+Node.js, Express
 
-###
+**Database & Tools**
+Supabase, Git, Bun
 
-<h3 align="left">Meus repositórios favoritos:</h3>
+---
 
-<ul align="left">
-  <li><a href="https://github.com/trajanoo/eldendle" target="_blank">Jogo de adivinhação diário baseado em Elden Ring (Next.js + Supabase) 🚀</a></li>
-  <li><a href="https://github.com/trajanoo/habit-tracker" target="_blank">API RESTful de gerenciamento de hábitos documentada (Java/Spring + PostgreSQL) 🔥</a></li>
-  <li><a href="https://github.com/trajanoo/cafe-do-carlao" target="_blank">Landing page de uma cafeteria fictícia (React + Tailwind) ☕</a></li>
-</ul>
+## 📌 Featured Projects
 
-###
+### 🔹 CodeScribe (AI SaaS for Developers)
+
+📌 An AI-powered platform that transforms GitHub repositories into professional READMEs and high-engagement LinkedIn posts.
+
+**Why it stands out:**
+This project focuses on **developer visibility and personal branding**, solving a real pain point for engineers trying to showcase their work.
+
+**Key Features:**
+
+* AI-generated professional README files
+* Automated LinkedIn post creation
+* Authentication system with Supabase
+* Project dashboard with history tracking
+
+**Tech:** React, TypeScript, Node.js, Express, Supabase
+
+🔗 https://github.com/trajanoo
+
+---
+
+### 🔹 Vanta (Productivity & Project Management System)
+
+📌 A full-featured task management platform with structured organization and analytics.
+
+**Highlights:**
+
+* Folder → Project → Task hierarchy
+* Kanban board with drag-and-drop
+* Productivity dashboard with metrics
+* Google Calendar integration
+
+**Focus:**
+Built to simulate real-world SaaS architecture and improve **task organization and productivity tracking**.
+
+---
+
+### 🔹 Eldendle (Game Project)
+
+📌 A creative project showcasing problem-solving, logic, and interactive development.
+
+**Focus:**
+Game mechanics, user interaction, and structured code design.
+
+---
+
+## 🏆 Achievements
+
+* 🥇 Awarded **Best Project** in the *Code The Future* program
+  (by SKA Automação de Engenharias)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=trajanoo\&show_icons=true)
+
+---
+
+## 🎯 What I'm Looking For
+
+I'm currently looking for an opportunity as a **Junior Software Developer** where I can:
+
+* Contribute to real-world products
+* Grow alongside experienced developers
+* Improve my skills in scalable systems and clean architecture
+
+---
+
+## 🤝 Let's Connect
+
+* 💼 LinkedIn: https://www.linkedin.com/in/brunotrajanoo/
+* 💻 GitHub: https://github.com/trajanoo
+* 📧 Email: [brunotrajano.dev@gmail.com](mailto:brunotrajano.dev@gmail.com)
+
+---
+
+⭐️ *Always open to opportunities, collaborations, and learning from great teams.*
