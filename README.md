@@ -26,9 +26,9 @@
 
 <p align="left">
 🛠 <strong><a href="https://github.com/trajanoo/codescribe">CodeScribe</a></strong> — AI platform that turns any GitHub repo into a professional README + LinkedIn post<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>Supabase</code> <code>Framer Motion</code><br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>Next.js</code> <code>TypeScript</code> <code>Node.js</code> <code>Supabase</code> <code>Framer Motion</code><br><br>
 📋 <strong><a href="https://github.com/trajanoo/vanta">Vanta</a></strong> — Task manager with Kanban board, productivity dashboard and Google Calendar sync<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Supabase</code><br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<code>Angular</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Supabase</code><br><br>
 🎮 <strong><a href="https://github.com/trajanoo/eldendle">Eldendle</a></strong> — Wordle-style guessing game themed around Elden Ring<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<code>React</code> <code>TypeScript</code>
 </p>
