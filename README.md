@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Still in high school, already award-winning, already employed, already building AI tools that developers actually use.</p>
+<p align="left">Still in high school, already award-winning, already employed, already building tools that people actually use.</p>
 
 ###
 
