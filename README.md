@@ -11,10 +11,10 @@
 ###
 
 <p align="left">
-✨ Building since 2022 — fullstack apps, developer tools, and real products<br><br>
-🏆 Award winner at <strong>Code The Future</strong> — SKA Automação de Engenharias<br><br>
-📚 Currently studying system design, scalable architectures, and backend best practices<br><br>
-🎯 Goals: ship products that real people use and grow into a solid fullstack engineer<br><br>
+✨ Building since 2022 — fullstack apps, developer tools, and real products<br>
+🏆 Award winner at <strong>Code The Future</strong> — SKA Automação de Engenharias<br>
+📚 Currently studying system design, scalable architectures, and backend best practices<br>
+🎯 Goals: ship products that real people use and grow into a solid fullstack engineer<br>
 🤖 Fun fact: I built an AI that writes READMEs and LinkedIn posts from any GitHub repo
 </p>
 
