@@ -49,7 +49,6 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=trajanoo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trajanoo&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 </div>
 
