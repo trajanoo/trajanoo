@@ -48,7 +48,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
 
 <img height="180em" src="https://github-readme-stats-green-six-97.vercel.app/api?username=trajanoo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&title_color=58A6FF&icon_color=58A6FF" />
 
