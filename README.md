@@ -12,7 +12,7 @@
 
 <p align="left">
 ✨ Building since 2022<br>
-🏆 Award winner at <strong>Code The Future</strong> — SKA Automação de Engenharias<br>
+🏆 Award winner at <strong>Code The Future</strong> (SKA Automação de Engenharias)<br>
 📚 Currently studying system design, scalable architectures, and backend best practices<br>
 🎯 Goals: ship products that real people use and grow into a solid fullstack engineer<br>
 🤖 Fun fact: I built an AI that writes READMEs and LinkedIn posts from any GitHub repo
